@@ -1,2 +1,2 @@
-var somename = "Himanshu";
-console.log(somename);
+var Name = 1035;
+console.log(Name);

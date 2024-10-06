@@ -1,3 +1,3 @@
 
-var somename = "Himanshu";
-console.log(somename)
+let name : number = 105;
+console.log(name)
